@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17E1FA21-BAE1-4700-93ED-BDD767045875}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\TblEvent.cs" />
+    <Compile Include="BLL\TblEventTable.cs" />
+    <Compile Include="BLL\GeneralRow.cs" />
+    <Compile Include="BLL\GeneralTable.cs" />
+    <Compile Include="BLL\MyDB.cs" />
+    <Compile Include="BLL\TblApicenterProduct.cs" />
+    <Compile Include="BLL\TblApicenterProductTable.cs" />
+    <Compile Include="BLL\TblCity.cs" />
+    <Compile Include="BLL\TblCityTable.cs" />
+    <Compile Include="BLL\TblDonations.cs" />
+    <Compile Include="BLL\TblDonationsTable.cs" />
+    <Compile Include="BLL\TblDonors.cs" />
+    <Compile Include="BLL\TblDonorsTable.cs" />
+    <Compile Include="BLL\TblApicenter.cs" />
+    <Compile Include="BLL\TblApicenterTable.cs" />
+    <Compile Include="BLL\TblKilometer.cs" />
+    <Compile Include="BLL\TblKilometerTable.cs" />
+    <Compile Include="BLL\TblLoanApicenter.cs" />
+    <Compile Include="BLL\TblLoanApicenterTable.cs" />
+    <Compile Include="BLL\TblLoanFromVolanteer.cs" />
+    <Compile Include="BLL\TblLoanFromVolanteerTable.cs" />
+    <Compile Include="BLL\TblProductVolanteer.cs" />
+    <Compile Include="BLL\TblProductVolanteerTable.cs" />
+    <Compile Include="BLL\TblStatus.cs" />
+    <Compile Include="BLL\TblStatusTable.cs" />
+    <Compile Include="BLL\TblTools.cs" />
+    <Compile Include="BLL\TblToolsTable.cs" />
+    <Compile Include="BLL\TblVolanteer.cs" />
+    <Compile Include="BLL\TblVolanteerTable.cs" />
+    <Compile Include="BLL\Validation.cs" />
+    <Compile Include="DAL\Connection.cs" />
+    <Compile Include="GUI\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCAddApi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCAddApi.Designer.cs">
+      <DependentUpon>UCAddApi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCAddEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCAddEvent.Designer.cs">
+      <DependentUpon>UCAddEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCAddProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCAddProduct.Designer.cs">
+      <DependentUpon>UCAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCAddProductApi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCAddProductApi.Designer.cs">
+      <DependentUpon>UCAddProductApi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCApplication.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCApplication.Designer.cs">
+      <DependentUpon>UCApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCApvolanteer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCApvolanteer.Designer.cs">
+      <DependentUpon>UCApvolanteer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCDeletapi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCDeletapi.Designer.cs">
+      <DependentUpon>UCDeletapi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCDeletproapi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCDeletproapi.Designer.cs">
+      <DependentUpon>UCDeletproapi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCDonations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCDonations.Designer.cs">
+      <DependentUpon>UCDonations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCEvent.Designer.cs">
+      <DependentUpon>UCEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCNewVolanteer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCNewVolanteer.Designer.cs">
+      <DependentUpon>UCNewVolanteer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCProduct.Designer.cs">
+      <DependentUpon>UCProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCRandom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCRandom.Designer.cs">
+      <DependentUpon>UCRandom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCReturn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCReturn.Designer.cs">
+      <DependentUpon>UCReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCReturnv.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCReturnv.Designer.cs">
+      <DependentUpon>UCReturnv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCStatus.Designer.cs">
+      <DependentUpon>UCStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCVolanteer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCVolanteer.Designer.cs">
+      <DependentUpon>UCVolanteer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UCManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UCManager.Designer.cs">
+      <DependentUpon>UCManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCAddApi.resx">
+      <DependentUpon>UCAddApi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCAddEvent.resx">
+      <DependentUpon>UCAddEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCAddProduct.resx">
+      <DependentUpon>UCAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCAddProductApi.resx">
+      <DependentUpon>UCAddProductApi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCApplication.resx">
+      <DependentUpon>UCApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCApvolanteer.resx">
+      <DependentUpon>UCApvolanteer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCDeletapi.resx">
+      <DependentUpon>UCDeletapi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCDeletproapi.resx">
+      <DependentUpon>UCDeletproapi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCDonations.resx">
+      <DependentUpon>UCDonations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCEvent.resx">
+      <DependentUpon>UCEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCNewVolanteer.resx">
+      <DependentUpon>UCNewVolanteer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCProduct.resx">
+      <DependentUpon>UCProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCRandom.resx">
+      <DependentUpon>UCRandom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCReturn.resx">
+      <DependentUpon>UCReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCReturnv.resx">
+      <DependentUpon>UCReturnv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCStatus.resx">
+      <DependentUpon>UCStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCVolanteer.resx">
+      <DependentUpon>UCVolanteer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UCManager.resx">
+      <DependentUpon>UCManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DAL\Yedidim.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\תרומה.jpg" />
+    <None Include="Resources\tr.jpg" />
+    <None Include="Resources\םם1.jpg" />
+    <None Include="Resources\אא1.jpg" />
+    <None Include="Resources\פ1.jpg" />
+    <None Include="Resources\Untitled-11.jpg" />
+    <None Include="Resources\םפ1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

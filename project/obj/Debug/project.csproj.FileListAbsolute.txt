@@ -1,0 +1,531 @@
+F:\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+F:\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+F:\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+F:\פרויקט ידידים\project\bin\Debug\project.exe.config
+F:\פרויקט ידידים\project\bin\Debug\project.exe
+F:\פרויקט ידידים\project\bin\Debug\project.pdb
+F:\פרויקט ידידים\project\obj\Debug\project.exe
+F:\פרויקט ידידים\project\obj\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\bin\Debug\project.exe.config
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\bin\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\bin\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+G:\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+G:\פרויקט ידידים\project\bin\Debug\project.exe.config
+G:\פרויקט ידידים\project\bin\Debug\project.exe
+G:\פרויקט ידידים\project\bin\Debug\project.pdb
+G:\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+G:\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+G:\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+G:\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+G:\פרויקט ידידים\project\obj\Debug\project.exe
+G:\פרויקט ידידים\project\obj\Debug\project.pdb
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+E:\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+E:\פרויקט ידידים\project\bin\Debug\project.exe.config
+E:\פרויקט ידידים\project\bin\Debug\project.exe
+E:\פרויקט ידידים\project\bin\Debug\project.pdb
+E:\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCApproval.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCRating.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+E:\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+E:\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\פרויקט ידידים\project\obj\Debug\project.exe
+E:\פרויקט ידידים\project\obj\Debug\project.pdb
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+E:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\פרויקט ידידים\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\פרויקט ידידים\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\פרויקט ידידים\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.pdb
+D:\פרויקט ידידים\project\bin\Debug\DAL\Yedidim.accdb
+D:\פרויקט ידידים\project\bin\Debug\project.exe.config
+D:\פרויקט ידידים\project\bin\Debug\project.exe
+D:\פרויקט ידידים\project\bin\Debug\project.pdb
+D:\פרויקט ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\פרויקט ידידים\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCManager.resources
+D:\פרויקט ידידים\project\obj\Debug\project.Properties.Resources.resources
+D:\פרויקט ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\פרויקט ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\פרויקט ידידים\project\obj\Debug\project.exe
+D:\פרויקט ידידים\project\obj\Debug\project.pdb
+F:\פרויקט ידידים\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+F:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturnv.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+G:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturnv.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturnv.resources
+D:\פרויקט ידידים\project\obj\Debug\project.GUI.UCReturnv.resources
+D:\מעודכן\project\bin\Debug\DAL\Yedidim.accdb
+D:\מעודכן\project\bin\Debug\project.exe.config
+D:\מעודכן\project\bin\Debug\project.exe
+D:\מעודכן\project\bin\Debug\project.pdb
+D:\מעודכן\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\מעודכן\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\מעודכן\project\obj\Debug\project.GUI.FrmMain.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCAddApi.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCAddEvent.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCAddProduct.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCAddProductApi.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCApplication.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCDonations.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCEvent.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCProduct.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCReturn.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCReturnv.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCStatus.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCVolanteer.resources
+D:\מעודכן\project\obj\Debug\project.GUI.UCManager.resources
+D:\מעודכן\project\obj\Debug\project.Properties.Resources.resources
+D:\מעודכן\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\מעודכן\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\מעודכן\project\obj\Debug\project.exe
+D:\מעודכן\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\ידידים\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\ידידים\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\ידידים\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\ידידים\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCReturn.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\ידידים\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCReturn.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\הכי חדש\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\הכי חדש\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\הכי חדש\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+C:\Users\user1\Desktop\הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\bin\Debug\project.exe.config
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\bin\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\bin\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCReturn.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי חדש\project\obj\Debug\project.pdb
+D:\הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+D:\הכי חדש\project\bin\Debug\project.exe.config
+D:\הכי חדש\project\bin\Debug\project.exe
+D:\הכי חדש\project\bin\Debug\project.pdb
+D:\הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCReturn.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+D:\הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+D:\הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+D:\הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\הכי חדש\project\obj\Debug\project.exe
+D:\הכי חדש\project\obj\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\bin\Debug\project.exe.config
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\bin\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\bin\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.pdb
+D:\הכי חדש\הכי הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+D:\הכי חדש\הכי הכי חדש\project\bin\Debug\project.exe.config
+D:\הכי חדש\הכי הכי חדש\project\bin\Debug\project.exe
+D:\הכי חדש\הכי הכי חדש\project\bin\Debug\project.pdb
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCReturn.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.exe
+D:\הכי חדש\הכי הכי חדש\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\הכי הכי חדש\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\הכי הכי חדש\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\הכי הכי חדש\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\הכי הכי חדש\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletapi.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.UCRandom.resources
+C:\Users\user1\Desktop\הכי הכי חדש\project\obj\Debug\project.GUI.וןןן.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.UCRandom.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\project\obj\Debug\project.GUI.וןןן.resources
+E:\חדששששששששששש\project\bin\Debug\DAL\Yedidim.accdb
+E:\חדששששששששששש\project\bin\Debug\project.exe.config
+E:\חדששששששששששש\project\bin\Debug\project.exe
+E:\חדששששששששששש\project\bin\Debug\project.pdb
+E:\חדששששששששששש\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\חדששששששששששש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+E:\חדששששששששששש\project\obj\Debug\project.GUI.FrmMain.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCAddApi.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCAddEvent.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProduct.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCApplication.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletapi.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCDonations.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCEvent.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCProduct.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCRandom.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.וןןן.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCReturnv.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCStatus.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCVolanteer.resources
+E:\חדששששששששששש\project\obj\Debug\project.GUI.UCManager.resources
+E:\חדששששששששששש\project\obj\Debug\project.Properties.Resources.resources
+E:\חדששששששששששש\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\חדששששששששששש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\חדששששששששששש\project\obj\Debug\project.exe
+E:\חדששששששששששש\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\חדששששששששששש\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\חדששששששששששש\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\חדששששששששששש\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\חדששששששששששש\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletapi.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCRandom.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.וןןן.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\חדששששששששששש\project\obj\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\bin\Debug\DAL\Yedidim.accdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\bin\Debug\project.exe.config
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\bin\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\bin\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.FrmMain.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCAddApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCAddEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCApplication.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCDonations.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCEvent.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCProduct.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCRandom.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.וןןן.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCReturnv.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCStatus.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCVolanteer.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.GUI.UCManager.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.exe
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.pdb
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\ד2 ד3\אפרת סימונובסקי\הכי הכי חדש\חדששששששששששש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletapi.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCDeletproapi.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCRandom.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.וןןן.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\תכנות און קי\חדששששששששששש\project\obj\Debug\project.pdb
+C:\Users\user1\Desktop\פרויקט\גמור\project\bin\Debug\DAL\Yedidim.accdb
+C:\Users\user1\Desktop\פרויקט\גמור\project\bin\Debug\project.exe.config
+C:\Users\user1\Desktop\פרויקט\גמור\project\bin\Debug\project.exe
+C:\Users\user1\Desktop\פרויקט\גמור\project\bin\Debug\project.pdb
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.FrmMain.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCAddApi.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCAddEvent.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCAddProduct.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCAddProductApi.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCApplication.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCApvolanteer.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCDeletapi.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCDeletproapi.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCDonations.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCEvent.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCNewVolanteer.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCProduct.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCRandom.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.וןןן.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCReturnv.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCStatus.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCVolanteer.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.GUI.UCManager.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.exe
+C:\Users\user1\Desktop\פרויקט\גמור\project\obj\Debug\project.pdb

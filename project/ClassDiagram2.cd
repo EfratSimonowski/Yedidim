@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="project.BLL.GeneralRow">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\GeneralRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.GeneralTable">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQgAAAAAAAABAgQAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\GeneralTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.MyDB">
+    <Position X="23.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEgAQQAAAIAgAAAAAAAgAAAAAAQAAAgAQAADA=</HashCode>
+      <FileName>BLL\MyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblApicenter">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAIACAACAAAgAIAAICCAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>BLL\TblApicenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblApicenterProduct">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAACAAAAAAgAEAgICAAIQABACEAgIAgAICACAAA=</HashCode>
+      <FileName>BLL\TblApicenterProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblApicenterProductTable">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblApicenterProductTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblApicenterTable">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblApicenterTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblCity">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAACAAAAAAgAAAAoAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\TblCity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblCityTable">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblCityTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblDonations">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAJAQBACAAAAAggAAAgIAAAIAABAAQgAAAEIAAACAEA=</HashCode>
+      <FileName>BLL\TblDonations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblDonationsTable">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblDonationsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblDonors">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAAACAAAAAAgAAABoAABAYAAAQAgBAAAIQQAAAEA=</HashCode>
+      <FileName>BLL\TblDonors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblDonorsTable">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblDonorsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblEvent">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAxgEAAOIhAAkAoAAJAJCAACAQAAAgAAIAEIAGABCAA=</HashCode>
+      <FileName>BLL\TblEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblEventTable">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblEventTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblKilometer">
+    <Position X="25.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAgAAAAAAAAAAQAAAAEgAAABIAAAAQAA=</HashCode>
+      <FileName>BLL\TblKilometer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblKilometerTable">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblKilometerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblLoanApicenter">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAAACCAAAAABAAAEAQQACAAAAAgAAIBAAACAAAAA=</HashCode>
+      <FileName>BLL\TblLoanApicenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblLoanApicenterTable">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblLoanApicenterTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblLoanFromVolanteer">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoBAAAICAAAAACgAAAAoCAACAAAAAgAICgAADAKAAAQ=</HashCode>
+      <FileName>BLL\TblLoanFromVolanteer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblLoanFromVolanteerTable">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblLoanFromVolanteerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblProductVolanteer">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAACAAAAACAAAAggAAAKAABAAgAACAAAACAAAAA=</HashCode>
+      <FileName>BLL\TblProductVolanteer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblProductVolanteerTable">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblProductVolanteerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblStatus">
+    <Position X="27.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAABAAAAAQAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>BLL\TblStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblStatusTable">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblStatusTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblTools">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAACIAAAACAAAAgAAAAIAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>BLL\TblTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblToolsTable">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblToolsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblVolanteer">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YABgAECCIAhAgAgIAAEIAAADAAAAAgAIAAIACGAAAAA=</HashCode>
+      <FileName>BLL\TblVolanteer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.BLL.TblVolanteerTable">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BLL\TblVolanteerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.Validation">
+    <Position X="27.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAQAAAAAgCAAAAACAAAAAAACQAAAAAgAAEAAAA=</HashCode>
+      <FileName>BLL\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="project.Connection">
+    <Position X="25.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAACAAACAQQAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
